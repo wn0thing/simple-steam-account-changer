@@ -1,5 +1,5 @@
-# SteamAccountSwitcherSimple
-Steam Account Switcher - Trocador de conta Steam
+# simple steam account changer - trocador de conta steam simples
+
 
 * É importante inserir o seu username editando o arquivo, para isso:
   Aperte com botão direito no arquivo .bat busque por `insert you username` e insira o usuario da sua conta steam.
